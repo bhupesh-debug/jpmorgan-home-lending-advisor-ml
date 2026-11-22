@@ -1,0 +1,6 @@
+module,baseline,baseline_score,best_model,best_score,metric
+Origination forecasting,Seasonal-naive,0.4000008183837564,Random Forest,0.09789414441734616,WAPE (lower is better)
+Affordability band,DTI-only rule,0.8993368614580736,Random Forest,0.9507070460690835,Macro-F1
+Product fit,Simplified product rule,0.8624809294938175,Random Forest,0.929799984875983,Macro-F1
+Cross-sell need,Rule baseline,0.4049079754601227,Logistic Regression,0.634011090573013,F1
+Outreach queue (top 20),Random queue,0.3725,Risk-ranked queue,0.7,Precision@20

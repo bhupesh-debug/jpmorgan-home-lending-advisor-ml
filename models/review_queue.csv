@@ -1,0 +1,2 @@
+queue_size,need_in_top,need_total_holdout,precision_at_n,recall_of_need,base_rate
+20,14,447,0.7,0.03131991051454139,0.3725

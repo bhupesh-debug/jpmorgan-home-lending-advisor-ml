@@ -1,0 +1,21 @@
+customer_id,checking_tenure_years,avg_balance,has_mortgage,life_event,products_held,age_band,income_band,mortgage_need,need_probability,need_probability_model
+CUST-204135,8.5,2996,False,New child,5,35-44,125-200k,True,0.731,0.933
+CUST-201897,16.5,17808,False,New child,5,45-54,125-200k,True,0.731,0.89
+CUST-200307,5.6,15917,False,New child,6,45-54,<75k,True,0.668,0.89
+CUST-200906,4.9,13102,False,No event,4,35-44,125-200k,True,0.525,0.89
+CUST-205346,3.2,16822,False,Marriage,6,45-54,125-200k,False,0.731,0.887
+CUST-202011,10.1,23742,False,New child,6,45-54,<75k,False,0.668,0.883
+CUST-205512,12.8,16474,False,New child,2,45-54,125-200k,True,0.646,0.883
+CUST-203079,15.5,5404,False,Job change,6,35-44,125-200k,True,0.525,0.877
+CUST-201520,7.6,18122,False,Relocation,4,45-54,200k+,True,0.731,0.877
+CUST-205529,9.2,10253,False,No event,6,35-44,75-125k,False,0.45,0.873
+CUST-201314,3.9,9071,False,New child,2,35-44,125-200k,True,0.646,0.87
+CUST-205160,10.8,7179,False,No event,3,45-54,125-200k,False,0.525,0.867
+CUST-203018,7.9,18129,True,Relocation,5,45-54,125-200k,True,0.378,0.863
+CUST-201798,8.5,11056,False,Relocation,3,45-54,125-200k,False,0.731,0.863
+CUST-204742,7.0,6100,False,New child,5,35-44,200k+,True,0.731,0.86
+CUST-201050,0.7,20108,False,Relocation,4,35-44,125-200k,True,0.622,0.857
+CUST-205606,6.9,29542,False,No event,5,35-44,<75k,False,0.45,0.857
+CUST-201430,4.1,2966,False,New child,3,45-54,<75k,True,0.668,0.853
+CUST-205343,3.2,28233,False,New child,4,35-44,125-200k,True,0.731,0.853
+CUST-202080,4.7,16187,False,Marriage,6,35-44,75-125k,True,0.668,0.85

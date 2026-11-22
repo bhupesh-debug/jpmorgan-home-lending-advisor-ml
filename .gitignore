@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.rds
+reports/charts/*.png
+.DS_Store
+.venv/
